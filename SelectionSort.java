@@ -2,8 +2,8 @@ import java.util.*;
 import java.lang.*;
 import java.io.*;
 
-// The main method must be in a class named "Main".
-class InsertionSort {
+
+class SelectionSort {
     public static void main(String[] args) {
         int arr[]={23,21,4,14,9,4};
         int n=arr.length;
